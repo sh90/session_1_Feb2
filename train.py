@@ -1,1 +1,1 @@
-print("Training using XGBoost")
+print("Training using Neural Network")
