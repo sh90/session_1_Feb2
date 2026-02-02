@@ -1,1 +1,1 @@
-print("Training using Neural Network")
+print("Training using GAN")
